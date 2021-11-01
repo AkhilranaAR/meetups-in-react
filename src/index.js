@@ -15,3 +15,6 @@ ReactDOM.render(
 // changed here if it's named export.
 // <App/> is the JSX being rendered to the "root" div (appended in <div class="root"></div>).
 // "root" is in the only HTML page being loaded in SPA available in public > index.html
+// ##############################
+// Setting up Github Pages.
+// ##############################
